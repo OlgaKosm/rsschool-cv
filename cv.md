@@ -29,7 +29,7 @@ Basic:
 - Cognos BI
 
 ## Code Example:
-
+```
 function pow(x,n) {
   return x**n;
 }
@@ -42,8 +42,23 @@ if (step < 1) {
 } else {
    alert (pow(num,step));
 }
+```
 
+## Education:
 
+- University: Belarusian State Economic University, speciality "Economic cybernetics" (2007-2012 years)
+- Courses: 
+    + "Basics Python & Data Science" 
+    + "Macros in Excel"
+    + "SC-analytics"
+
+## Experience:
+
+Work for about 10 years in bank, such as Delta Bank, Alfa Bank, Belinvest Bank, Sber Bank (Belarus). Job responsibilities:
+- analytics & reporting
+- premium calculation
+- forecasting and building models of customer behavior patterns
+- development and maintenance of the life cycle process of Data Science models
 
    
 
