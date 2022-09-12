@@ -49,6 +49,7 @@ if (step < 1) {
 - **University:** Belarusian State Economic University, speciality "Economic cybernetics" (2007-2012 years)
 - **Courses:** 
     + "Basics Python & Data Science" 
+    + "HTML Academy"
     + "Macros in Excel"
     + "SC-analytics"
 
