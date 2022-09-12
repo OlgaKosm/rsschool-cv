@@ -62,7 +62,7 @@ Work for about 10 years in bank, such as Delta Bank, Alfa Bank, Belinvest Bank, 
 
 ## Languages:
 
-- English: A2 (Pre-Intermediate) [EPAM English test result] (https://examinator.epam.com/Main/PersonalAssignments)
+- English: A2 (Pre-Intermediate) [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments)
 - Russian
 - Belorussian
 - Ukrainian
