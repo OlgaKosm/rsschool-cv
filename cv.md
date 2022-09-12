@@ -2,10 +2,10 @@
 
 ## Contacts
 
-- Location: Kaunas, Lithuania
-- Phone: +370 675 20998
-- Email: olga0506kosm@gmail.com
-- Discord-nickname (@GitHub-username): Olga Kosmacheva (@OlgaKosm)
+- **Location:** Kaunas, Lithuania
+- **Phone:** +370 675 20998
+- **Email:** olga0506kosm@gmail.com
+- **Discord-nickname (@GitHub-username):** Olga Kosmacheva (@OlgaKosm)
 
 ## About me:
 
@@ -13,7 +13,7 @@ I am an experienced project manager in the banking industry during the last 10 y
 
 ## Skills:
 
-Basic:
+**Basic:**
 - HTML/CSS
 - JavaScript
 - Git 
@@ -46,8 +46,8 @@ if (step < 1) {
 
 ## Education:
 
-- University: Belarusian State Economic University, speciality "Economic cybernetics" (2007-2012 years)
-- Courses: 
+- **University:** Belarusian State Economic University, speciality "Economic cybernetics" (2007-2012 years)
+- **Courses:** 
     + "Basics Python & Data Science" 
     + "Macros in Excel"
     + "SC-analytics"
@@ -62,7 +62,7 @@ Work for about 10 years in bank, such as Delta Bank, Alfa Bank, Belinvest Bank, 
 
 ## Languages:
 
-- English: A2 (Pre-Intermediate) [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments)
+- English: **A2 (Pre-Intermediate)** [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments)
 - Russian
 - Belorussian
 - Ukrainian
