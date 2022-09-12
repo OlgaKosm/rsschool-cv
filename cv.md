@@ -28,4 +28,24 @@ Basic:
 - Lotus Notes
 - Cognos BI
 
+## Code Example:
+
+function pow(x,n) {
+  return x**n;
+}
+
+let num = prompt('Ввод числа', 0);
+let step = prompt('Ввод степени', 0);
+
+if (step < 1) {
+   alert (`Степень ${step} не подходит, введите число >= 1`);
+} else {
+   alert (pow(num,step));
+}
+
+
+
+   
+
+
 
