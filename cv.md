@@ -34,11 +34,11 @@ function pow(x,n) {
   return x**n;
 }
 
-let num = prompt('Ввод числа', 0);
-let step = prompt('Ввод степени', 0);
+let num = prompt('Enter number', 0);
+let step = prompt('Enter degree', 0);
 
 if (step < 1) {
-   alert (`Степень ${step} не подходит, введите число >= 1`);
+   alert (`Degree ${step} not supported , enter number >= 1`);
 } else {
    alert (pow(num,step));
 }
