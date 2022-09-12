@@ -60,6 +60,14 @@ Work for about 10 years in bank, such as Delta Bank, Alfa Bank, Belinvest Bank, 
 - forecasting and building models of customer behavior patterns
 - development and maintenance of the life cycle process of Data Science models
 
+## Languages:
+
+- English: A2 (Pre-Intermediate) [EPAM English test result] (https://examinator.epam.com/Main/PersonalAssignments)
+- Russian
+- Belorussian
+- Ukrainian
+   
+
    
 
 
