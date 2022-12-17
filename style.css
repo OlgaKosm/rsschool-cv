@@ -1,0 +1,160 @@
+/* Body */
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: darkblue;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+/* All elements */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Header */
+.header {
+    border: 1px solid blue;
+}
+
+/* Navigation */
+.nav-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: darkblue;
+    font-size: 16px;
+    font-weight: 700;
+    transition: color .3s;
+}
+
+.nav-link:hover {
+    color: lightblue;
+}
+
+/* Main */
+.main {
+    border: 1px solid blueviolet;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    text-align: justify;
+}
+
+/* Image */
+.img {
+    margin-bottom: 10px;
+    border: 5px solid mediumslateblue;
+    border-radius: 50%;
+}
+
+/* Footer */
+.footer {
+    border: 1px solid darkblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: white;
+    background-color: black;
+}
+
+.footer a {
+    text-decoration: none;
+    color: blue;
+    transition: color .3s;
+    cursor: pointer;
+    align-content: center;
+}
+
+.footer a:hover {
+    color: lightblue;
+}
+
+footer .github-icon {
+    margin-right: 10px;
+}
+
+/* Container */
+.container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+.container-center {
+    margin: auto;
+    width: 1024px;
+    font-family: "Cabin", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 40px -1px gray;
+}
+
+/* Section */
+.section {
+    width: 50%;
+    padding-right: 40px;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: blue;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+
+.section-code {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: smaller;
+    text-align: justify;
+    padding-right: 40px;
+}
+
+.section-summary {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    padding-right: 40px;
+}
+
+.section a {
+    text-decoration: none;
+    color: blue;
+    transition: color .3s;
+    cursor: pointer;
+    align-content: center;
+}
+
+.section a:hover {
+    color: lightblue;
+}
