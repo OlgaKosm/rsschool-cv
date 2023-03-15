@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -73,7 +73,7 @@
             <h2 class="section-title">Tools</h2>
             <h4>Advanced</h4>
             <ul>
-                <li>Jira & Confluence</li>
+                <li>Jira &amp; Confluence</li>
                 <li>Miro</li>
                 <li>MS: Excel, Access, Power Point, Word</li>
                 <li>Lotus Notes</li>
@@ -87,7 +87,7 @@
                 <li><strong>University:</strong> Belarusian State Economic University, speciality “Economic cybernetics” (2007-2012 years)</li>
                 <li><strong>Courses:</strong>
                     <ul>
-                        <li>“Basics Python & Data Science”</li>
+                        <li>“Basics Python &amp; Data Science”</li>
                         <li>“HTML Academy”</li>
                         <li>“Macros in Excel”</li>
                         <li>“SC-analytics”</li>
@@ -99,7 +99,7 @@
             <h2 class="section-title">Experience</h2>
             <p>Work for about 10 years in bank, such as Delta Bank, Alfa Bank, Belinvest Bank, Sber Bank (Belarus). Job responsibilities:</p>
             <ul>
-                <li>analytics & reporting</li>
+                <li>analytics &amp; reporting</li>
                 <li>premium calculation</li>
                 <li>forecasting and building models of customer behavior patterns</li>
                 <li>development and maintenance of the life cycle process of Data Science models</li>
@@ -127,32 +127,32 @@
         <section class="section-code" id="code">
             <h2 class="section-title">Code</h2>
             <p><code><i>The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.</i><Br>
-                <Br>
-                <strong>function duplicateEncode(word)</strong> {<Br>
-                <Br>
-                let map = new Map();<Br>
-                let newWord = '';<Br>
-                let massWord = word.toLowerCase().split('');<Br>
-                <Br>
-                massWord.forEach(el => {<Br>
-                &nbsp;&nbsp;if (!map.has(el)) {<Br>
-                &nbsp;&nbsp;&nbsp;&nbsp;map.set(el.toLowerCase(),1);<Br>
-                &nbsp;&nbsp;} else if (map.has(el)) {<Br>
-                &nbsp;&nbsp;&nbsp;&nbsp;let i = map.get(el)+1;<Br>
-                &nbsp;&nbsp;&nbsp;&nbsp;map.set(el.toLowerCase(),i);<Br>
-                &nbsp;&nbsp;}<Br>
-                })<Br>
-                <Br>
-                massWord.forEach(el => {<Br>
-                &nbsp;&nbsp;if (map.get(el.toLowerCase()) > 1) {<Br>
-                &nbsp;&nbsp;&nbsp;&nbsp;newWord = newWord.concat(')');<Br>
-                &nbsp;&nbsp;} else {<Br>
-                &nbsp;&nbsp;&nbsp;&nbsp;newWord = newWord.concat('(');<Br>
-                &nbsp;&nbsp;}<Br>
-                })<Br>
-                <Br>
-                return newWord;<Br>
-                <Br>
+                <br>
+                <strong>function duplicateEncode(word)</strong> {<br>
+                <br>
+                let map = new Map();<br>
+                let newWord = '';<br>
+                let massWord = word.toLowerCase().split('');<br>
+                <br>
+                massWord.forEach(el =&gt; {<br>
+                &nbsp;&nbsp;if (!map.has(el)) {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;map.set(el.toLowerCase(),1);<br>
+                &nbsp;&nbsp;} else if (map.has(el)) {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;let i = map.get(el)+1;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;map.set(el.toLowerCase(),i);<br>
+                &nbsp;&nbsp;}<br>
+                })<br>
+                <br>
+                massWord.forEach(el =&gt; {<br>
+                &nbsp;&nbsp;if (map.get(el.toLowerCase()) &gt; 1) {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;newWord = newWord.concat(')');<br>
+                &nbsp;&nbsp;} else {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;newWord = newWord.concat('(');<br>
+                &nbsp;&nbsp;}<br>
+                })<br>
+                <br>
+                return newWord;<br>
+                <br>
                 }</code></p>
         </section>
     </div>
